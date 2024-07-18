@@ -1,0 +1,225 @@
+Variable: Al
+TotalFiltered: 107849
+FilteredBelowMDLOnly: 13238
+FilteredBelowOrEqualZero: 94611
+
+Variable: ammNO3
+TotalFiltered: 1680
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 1680
+
+Variable: ammSO4
+TotalFiltered: 315
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 315
+
+Variable: As
+TotalFiltered: 333311
+FilteredBelowMDLOnly: 25289
+FilteredBelowOrEqualZero: 308022
+
+Variable: Br
+TotalFiltered: 12893
+FilteredBelowMDLOnly: 7511
+FilteredBelowOrEqualZero: 5382
+
+Variable: Ca
+TotalFiltered: 17987
+FilteredBelowMDLOnly: 15168
+FilteredBelowOrEqualZero: 2819
+
+Variable: EC
+TotalFiltered: 16980
+FilteredBelowMDLOnly: 9091
+FilteredBelowOrEqualZero: 7889
+
+Variable: OC_Massfine
+TotalFiltered: 3453
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 3453
+
+Variable: OC_PyroFine
+TotalFiltered: 45060
+FilteredBelowMDLOnly: 27510
+FilteredBelowOrEqualZero: 17550
+
+Variable: OC_PyroFineTransm
+TotalFiltered: 6082
+FilteredBelowMDLOnly: 5120
+FilteredBelowOrEqualZero: 962
+
+Variable: OC
+TotalFiltered: 8824
+FilteredBelowMDLOnly: 5371
+FilteredBelowOrEqualZero: 3453
+
+Variable: TC
+TotalFiltered: 7256
+FilteredBelowMDLOnly: 6481
+FilteredBelowOrEqualZero: 775
+
+Variable: Chloride
+TotalFiltered: 213241
+FilteredBelowMDLOnly: 137375
+FilteredBelowOrEqualZero: 75866
+
+Variable: Cl
+TotalFiltered: 277489
+FilteredBelowMDLOnly: 41982
+FilteredBelowOrEqualZero: 235507
+
+Variable: Cr
+TotalFiltered: 292220
+FilteredBelowMDLOnly: 102233
+FilteredBelowOrEqualZero: 189987
+
+Variable: Cu
+TotalFiltered: 145171
+FilteredBelowMDLOnly: 82756
+FilteredBelowOrEqualZero: 62415
+
+Variable: FlowRate
+TotalFiltered: 6340
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 6340
+
+Variable: Fe
+TotalFiltered: 12594
+FilteredBelowMDLOnly: 11445
+FilteredBelowOrEqualZero: 1149
+
+Variable: Pb
+TotalFiltered: 156609
+FilteredBelowMDLOnly: 97523
+FilteredBelowOrEqualZero: 59086
+
+Variable: Mg
+TotalFiltered: 249246
+FilteredBelowMDLOnly: 36805
+FilteredBelowOrEqualZero: 212441
+
+Variable: Mn
+TotalFiltered: 118254
+FilteredBelowMDLOnly: 51877
+FilteredBelowOrEqualZero: 66377
+
+Variable: MassPM10
+TotalFiltered: 4000
+FilteredBelowMDLOnly: 3691
+FilteredBelowOrEqualZero: 309
+
+Variable: MassPM10_Reconstr
+TotalFiltered: 270
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 270
+
+Variable: MassFine
+TotalFiltered: 7272
+FilteredBelowMDLOnly: 5962
+FilteredBelowOrEqualZero: 1310
+
+Variable: MassCoarse
+TotalFiltered: 4877
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 4877
+
+Variable: MassFine_Reconstr
+TotalFiltered: 243
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 243
+
+Variable: Ni
+TotalFiltered: 307415
+FilteredBelowMDLOnly: 108365
+FilteredBelowOrEqualZero: 199050
+
+Variable: Nitrate
+TotalFiltered: 16504
+FilteredBelowMDLOnly: 14731
+FilteredBelowOrEqualZero: 1773
+
+Variable: Nitrite
+TotalFiltered: 430081
+FilteredBelowMDLOnly: 227832
+FilteredBelowOrEqualZero: 202249
+
+Variable: P
+TotalFiltered: 404793
+FilteredBelowMDLOnly: 45434
+FilteredBelowOrEqualZero: 359359
+
+Variable: K
+TotalFiltered: 2404
+FilteredBelowMDLOnly: 920
+FilteredBelowOrEqualZero: 1484
+
+Variable: Rb
+TotalFiltered: 297603
+FilteredBelowMDLOnly: 102066
+FilteredBelowOrEqualZero: 195537
+
+Variable: SampDur
+TotalFiltered: 271
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 271
+
+Variable: SeaSalt
+TotalFiltered: 76021
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 76021
+
+Variable: Se
+TotalFiltered: 214824
+FilteredBelowMDLOnly: 102122
+FilteredBelowOrEqualZero: 112702
+
+Variable: Si
+TotalFiltered: 24819
+FilteredBelowMDLOnly: 12775
+FilteredBelowOrEqualZero: 12044
+
+Variable: Na
+TotalFiltered: 180551
+FilteredBelowMDLOnly: 28113
+FilteredBelowOrEqualZero: 152438
+
+Variable: Soil
+TotalFiltered: 802
+FilteredBelowMDLOnly: 0
+FilteredBelowOrEqualZero: 802
+
+Variable: Sr
+TotalFiltered: 160025
+FilteredBelowMDLOnly: 90442
+FilteredBelowOrEqualZero: 69583
+
+Variable: Sulfate
+TotalFiltered: 1929
+FilteredBelowMDLOnly: 1616
+FilteredBelowOrEqualZero: 313
+
+Variable: S
+TotalFiltered: 235
+FilteredBelowMDLOnly: 47
+FilteredBelowOrEqualZero: 188
+
+Variable: Ti
+TotalFiltered: 53959
+FilteredBelowMDLOnly: 27238
+FilteredBelowOrEqualZero: 26721
+
+Variable: V
+TotalFiltered: 213622
+FilteredBelowMDLOnly: 77451
+FilteredBelowOrEqualZero: 136171
+
+Variable: Zn
+TotalFiltered: 36641
+FilteredBelowMDLOnly: 31181
+FilteredBelowOrEqualZero: 5460
+
+Variable: Zr
+TotalFiltered: 432865
+FilteredBelowMDLOnly: 135010
+FilteredBelowOrEqualZero: 297855
+

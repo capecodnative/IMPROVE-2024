@@ -1,0 +1,235 @@
+Site,Code,Dataset,Country,State,County,AQSCode,Latitude,Longitude,Elevation,StartDate,EndDate,DemographicCode,LandUseCode,StreetAddress,LocDesc,Sponsor,ProgramKey,NumPOCs
+"Acadia NP","ACAD1","IMPAER","US","ME","23009","230090103",44.37710,-68.26100,157,"03/02/1988","10/30/2023","-999","Unknown","-999","Park Headquarters","NPS","IMPROVE",1
+"Addison Pinnacle","ADPI1","IMPAER","US","NY","36101","361019000",42.09120,-77.20990,512,"04/04/2001","06/28/2010","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Agua Tibia","AGTI1","IMPAER","US","CA","06065","060659000",33.46360,-116.97060,507,"12/20/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Ambler","AMBL1","IMPAER","US","AK","02188","021889000",67.09934,-157.86280,77,"09/03/2003","11/29/2004","-999","-999","-999","-999","NPS","IMPROVE",1
+"Arches NP","ARCH1","IMPAER","US","UT","49019","490190101",38.78330,-109.58330,1722,"03/02/1988","12/29/1999","-999","Unknown","-999","Devils Garden Campground","-999","IMPROVE",1
+"Arendtsville","AREN1","IMPAER","US","PA","42001","420019000",39.92320,-77.30790,267,"04/04/2001","12/31/2010","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Badlands NP","BADL1","IMPAER","US","SD","46071","460710001",43.74350,-101.94120,736,"03/02/1988","10/30/2023","-999","Unknown","-999","Park Headquarters","NPS","IMPROVE",1
+"Baengnyeong Island","BYIS1","IMPAER","KR","-999","-999","-999",37.96590,124.63080,100,"03/20/2013","12/19/2022","-999","-999","-999","-999","-999","IMPROVE",2
+"Baengnyeong Island Co-located A Module","BYISX","IMPAER","KR","-999","-999","-999",37.96590,124.63080,100,"04/23/2014","07/29/2015","-999","-999","-999","-999","-999","IMPROVE",1
+"Baltimore","BALT1","IMPAER","US","MD","24005","240059000",39.25470,-76.70930,78,"06/02/2004","12/31/2006","-999","-999","-999","-999","SPECIAL","IMPROVE",1
+"Bandelier NM","BAND1","IMPAER","US","NM","35028","350281002",35.77970,-106.26640,1988,"03/02/1988","10/30/2023","-999","Unknown","-999","Fire Tower near VC","NPS","IMPROVE",1
+"Barrier Lake","BALA1","IMPAER","CA","AB","-999","-999",51.02900,-115.03360,1391,"01/15/2011","03/29/2017","-999","-999","-999","-999","Environment Canada","IMPROVE",1
+"Big Bend NP","BIBE1","IMPAER","US","TX","48043","480430101",29.30270,-103.17800,1066,"03/02/1988","10/30/2023","-999","Unknown","-999","3 miles SE of Panther Junction, at water well","NPS","IMPROVE",2
+"Blue Mounds","BLMO1","IMPAER","US","MN","27133","271339000",43.71580,-96.19130,473,"06/01/2002","12/29/2015","-999","Unknown","-999","-999","STATE","IMPROVE",2
+"Bondville","BOND1","IMPAER","US","IL","17019","170191001",40.05200,-88.37330,263,"03/08/2001","10/30/2023","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Bosque del Apache","BOAP1","IMPAER","US","NM","35053","350539000",33.86950,-106.85200,1389,"04/15/2000","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"Boulder Lake","BOLA1","IMPAER","US","WY","56035","-999",42.84648,-109.63973,2296,"08/26/2009","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Boundary Waters Canoe Area","BOWA1","IMPAER","US","MN","27075","270759000",47.94660,-91.49550,526,"06/01/1991","10/30/2023","-999","Unknown","-999","NADP Site, 20 mi ENE of  Ely, MN","USFS","IMPROVE",1
+"Breton","BRET1","IMPAER","US","LA","22075","220759000",29.11890,-89.20660,11,"08/16/2000","08/29/2005","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"Breton Island","BRIS1","IMPAER","US","LA","22075","220759000",30.10863,-89.76168,-7,"01/16/2008","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",2
+"Bridger Wilderness","BRID1","IMPAER","US","WY","56035","560359000",42.97490,-109.75790,2626,"03/02/1988","10/30/2023","-999","Unknown","-999","White Pine ski area 10 miles E of Pinedale, WY, near Fremont Lake","USFS","IMPROVE",1
+"Bridgton","BRMA1","IMPAER","US","ME","23005","230050103",44.10740,-70.72920,233,"03/14/2001","12/29/2015","-999","Unknown","-999","Bridgton, ME","STATE","IMPROVE",1
+"Brigantine NWR","BRIG1","IMPAER","US","NJ","34001","340019000",39.46500,-74.44920,5,"09/04/1991","10/30/2023","-999","Unknown","-999","Edwin D. Forsythe NWR Headquarters, Oceanville, NJ","FWS","IMPROVE",1
+"Brooklyn Lake","BRLA1","IMPAER","US","WY","56001","560019000",41.36620,-106.24180,3196,"07/31/1993","01/31/2004","-999","Unknown","-999","Snowy Range, 15 miles NW of Centennial, WY, at Brooklyn Lake","-999","IMPROVE",1
+"Bryce Canyon NP","BRCA1","IMPAER","US","UT","49017","490170101",37.61840,-112.17360,2481,"03/02/1988","10/30/2023","-999","Unknown","-999","2.5 miles S of VC at water tanks, near Sunset Point","NPS","IMPROVE",1
+"Cabinet Mountains","CABI1","IMPAER","US","MT","30089","300899000",47.95490,-115.67090,1441,"07/26/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Cadiz","CADI1","IMPAER","US","KY","21221","212219000",36.78420,-87.85010,191,"03/08/2001","12/31/2010","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Caney Creek","CACR1","IMPAER","US","AR","05113","051130003",34.45440,-94.14290,683,"06/24/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Canyonlands NP","CANY1","IMPAER","US","UT","49037","490379000",38.45870,-109.82100,1798,"03/02/1988","10/30/2023","-999","Unknown","-999","Island in the Sky VC","NPS","IMPROVE",1
+"Cape Cod","CACO1","IMPAER","US","MA","25001","250010002",41.97580,-70.02420,49,"04/04/2001","10/30/2023","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Cape Romain NWR","ROMA1","IMPAER","US","SC","45019","450190046",32.94100,-79.65720,4,"09/03/1994","10/30/2023","-999","Unknown","-999","Moores Landing, Cape Romain NWR, SC , Refuge maintenance area","FWS","IMPROVE",1
+"Capitol Reef NP","CAPI1","IMPAER","US","UT","49055","490559000",38.30220,-111.29260,1896,"04/19/2000","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",1
+"Carlsbad Caverns","CAVE1","IMPAER","US","NM","35015","-999",32.17830,-104.44376,1355,"07/30/2017","10/30/2023","-999","-999","-999","-999","NPS","IMPROVE",1
+"Casco Bay","CABA1","IMPAER","US","ME","23005","230059002",43.83250,-70.06440,26,"03/14/2001","10/30/2023","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Cedar Bluff","CEBL1","IMPAER","US","KS","20195","201950001",38.77010,-99.76340,665,"06/01/2002","10/30/2023","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Chassahowitzka NWR","CHAS1","IMPAER","US","FL","12017","120179000",28.74840,-82.55490,4,"03/03/1993","10/30/2023","-999","Unknown","-999","Maintenance Facility, 4 mi S of Homossassa Springs, FL, 1/4 mile West of the Chassahowitzka NWR Maintenance Facility","FWS","IMPROVE",1
+"Cherokee Nation","CHER1","IMPAER","US","OK","40071","400719010",36.95620,-97.03130,342,"09/02/2002","04/20/2010","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Chicago","CHIC1","IMPAER","US","IL","17031","170310076",41.75140,-87.71350,194,"09/03/2003","08/29/2005","-999","-999","-999","-999","STN","IMPROVE",1
+"Chiricahua NM","CHIR1","IMPAER","US","AZ","04003","040038001",32.00940,-109.38900,1554,"03/02/1988","10/30/2023","-999","Unknown","-999","Entrance Station","NPS","IMPROVE",1
+"Cloud Peak","CLPE1","IMPAER","US","WY","56019","560199000",44.33350,-106.95650,2470,"06/01/2002","07/29/2015","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Cohutta","COHU1","IMPAER","US","GA","13213","132139000",34.78520,-84.62650,735,"06/03/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Columbia Gorge #1","COGO1","IMPAER","US","WA","53039","530390010",45.56926,-122.21029,230,"09/18/1996","10/30/2011","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Columbia River Gorge","CORI1","IMPAER","US","WA","53039","530390011",45.66440,-121.00080,178,"06/02/1993","10/30/2023","-999","Unknown","-999","Rt. turn off west, SR-14  0.7 miles west of Wishram, WA., 1.5 miles NW of Wilsham, WA","USFS","IMPROVE",1
+"Connecticut Hill","COHI1","IMPAER","US","NY","36109","361099000",42.40090,-76.65340,519,"04/04/2001","06/25/2006","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Crater Lake NP","CRLA1","IMPAER","US","OR","41035","410358001",42.89580,-122.13610,1996,"03/02/1988","10/30/2023","-999","Unknown","-999","Park Headquarters, maintenance area","NPS","IMPROVE",1
+"Craters of the Moon NM","CRMO1","IMPAER","US","ID","16023","160230101",43.46050,-113.55510,1817,"03/04/1992","10/30/2023","-999","Unknown","-999","Behind  Visitors Center","NPS","IMPROVE",1
+"Crescent Lake","CRES1","IMPAER","US","NE","31069","310699000",41.76270,-102.43360,1207,"06/01/2002","12/29/2015","-999","-999","-999","-999","STATE","IMPROVE",1
+"D.L. Bliss State Park","BLIS1","IMPAER","US","CA","06017","060179000",38.97610,-120.10250,2130,"09/01/1990","12/29/2020","-999","Unknown","-999","Above SW shore of Lake Tahoe, CA,1/4 mile beyond headquarters on the service road","USFS","IMPROVE",1
+"D.L. Bliss State Park","BLIS2","IMPAER","US","CA","06017","060179002",38.97610,-120.10250,2130,"01/01/2021","10/30/2023","-999","Unknown","-999","Above SW shore of Lake Tahoe, CA,1/4 mile beyond headquarters on the service road","USFS","IMPROVE",1
+"Death Valley NP","DEVA1","IMPAER","US","CA","06027","060270101",36.50890,-116.84780,130,"09/04/1993","04/28/2013","-999","Unknown","-999","Furnace Creek, Air quality trailer at Nevares Spring Water Tank","NPS","IMPROVE",1
+"Denali NP","DENA1","IMPAER","US","AK","02068","020680003",63.72330,-148.96750,658,"03/02/1988","10/30/2023","-999","Unknown","-999","Park Headquarters near water tank","NPS","IMPROVE",1
+"Detroit","DETR1","IMPAER","US","MI","26163","261630001",42.22860,-83.20850,179,"09/03/2003","10/30/2023","-999","-999","-999","-999","STN","IMPROVE",1
+"Dinosaur NM","DINO1","IMPAER","US","CO","08081","-999",40.25000,-108.96700,1829,"11/01/2018","10/30/2023","-999","Unknown","P.O. Box 210, CO 81610","100 yds. N of headquarters building","-999","SFU",1
+"Dolly Sods Wilderness","DOSO1","IMPAER","US","WV","54093","540939000",39.10530,-79.42610,1182,"09/04/1991","10/30/2023","-999","Unknown","-999","Bearden Knob, 3 mi SE of Davis, WV","USFS","IMPROVE",1
+"Dome Lands Wilderness","DOLA1","IMPAER","US","CA","06029","060299902",35.69870,-118.20210,914,"06/01/1994","12/29/1999","-999","Unknown","-999","Between Onyx, CA and Walker Pass","-999","IMPROVE",1
+"Dome Lands Wilderness","DOME1","IMPAER","US","CA","06029","060299001",35.72780,-118.13770,927,"02/02/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Douglas","DOUG1","IMPAER","US","AZ","04003","040039000",31.34921,-109.53973,1230,"06/02/2004","10/30/2015","-999","-999","-999","-999","STATE","IMPROVE",1
+"Egbert","EGBE1","IMPAER","CA","ON","-999","-999",44.23115,-79.78322,251,"09/01/2005","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"El Dorado Springs","ELDO1","IMPAER","US","MO","29039","290390001",37.70090,-94.03480,297,"03/03/2002","12/29/2015","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Ellis","ELLI1","IMPAER","US","OK","40045","400450890",36.08530,-99.93540,697,"03/03/2002","10/18/2015","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Everglades NP","EVER1","IMPAER","US","FL","12086","120860030",25.39100,-80.68060,1,"09/03/1988","10/30/2023","-999","Unknown","-999","Behind Everglades Research Center","NPS","IMPROVE",2
+"Flat Tops","FLTO1","IMPAER","US","CO","08103","-999",39.91530,-107.63450,2593,"10/27/2011","09/28/2021","-999","Unknown","-999","-999","-999","IMPROVE",1
+"Flathead","FLAT1","IMPAER","US","MT","30047","300479000",47.77340,-114.26900,1580,"06/01/2002","10/30/2023","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Forest County Potawatomi Community","FCPC1","IMPAER","US","WI","55041","550410007",45.56495,-88.80838,564,"11/17/2016","10/30/2023","-999","-999","-999","-999","Native American Tribal Government","IMPROVE",1
+"Fort Collins","FOCO1","IMPAER","US","CO","08069","080699002",40.59286,-105.14312,1572,"07/29/2020","10/30/2023","-999","-999","-999","-999","NPS","IMPROVE",1
+"Fort Collins (#2)","FOCO2","IMPAER","US","CO","08069","-999",40.59286,-105.14312,1572,"07/30/2020","07/25/2021","-999","-999","-999","-999","NPS","IMPROVE",1
+"Fort Peck","FOPE1","IMPAER","US","MT","30085","300859000",48.30800,-105.10220,638,"06/01/2002","10/30/2023","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Fresno","FRES1","IMPAER","US","CA","06019","060190008",36.78180,-119.77320,100,"09/03/2004","10/30/2023","-999","-999","3425 N First St.","-999","-999","IMPROVE",1
+"Frostburg Reservoir (Big Piney Run)","FRRE1","IMPAER","US","MD","24023","240239000",39.70580,-79.01220,767,"03/01/2004","10/30/2023","-999","-999","-999","-999","STATE","IMPROVE",2
+"Gates of the Arctic NP","GAAR1","IMPAER","US","AK","02261","-999",66.90250,-151.51700,196,"11/02/2008","10/30/2015","-999","Unknown","Resource Management, P.O. Box 26030,Bettles, AK 99726","Bettles Radio Tower","-999","SFU",1
+"Gates of the Mountains","GAMO1","IMPAER","US","MT","30049","300499000",46.82620,-111.71070,2387,"07/26/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",2
+"Gila Wilderness","GICL1","IMPAER","US","NM","35003","350039000",33.22040,-108.23510,1775,"03/02/1994","10/30/2023","-999","Unknown","-999","Above Visitor Center","USFS","IMPROVE",1
+"Glacier NP","GLAC1","IMPAER","US","MT","30029","300299001",48.51050,-113.99660,975,"03/02/1988","10/30/2023","-999","Unknown","-999","2 miles NW of park HQ at Apgar stables","NPS","IMPROVE",1
+"Great Basin NP","GRBA1","IMPAER","US","NV","32033","320339000",39.00520,-114.21610,2065,"03/04/1992","10/30/2023","-999","Unknown","-999","Residence area 1 mi E of VC, 200 yds south of maintenance area","NPS","IMPROVE",1
+"Great Gulf Wilderness","GRGU1","IMPAER","US","NH","33007","330074002",44.30820,-71.21770,453,"06/03/1995","10/30/2023","-999","Unknown","-999","Camp Dodge, White Mt NF, S of Gorham, NH","USFS","IMPROVE",1
+"Great River Bluffs","GRRI1","IMPAER","US","MN","27169","271699000",43.93730,-91.40520,370,"06/01/2002","10/30/2023","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Great Sand Dunes NM","GRSA1","IMPAER","US","CO","08003","080039000",37.72490,-105.51850,2498,"03/02/1988","10/30/2023","-999","Unknown","-999","Monument Headquarters","NPS","IMPROVE",1
+"Great Smoky Mountains NP","GRSM1","IMPAER","US","TN","47009","470090101",35.63340,-83.94160,810,"03/02/1988","10/30/2023","-999","Unknown","-999","Look Rock, 8 mi S of Maryville, TN","NPS","IMPROVE",1
+"Great Smoky Mountains NP (PM10 Speciation)","GRSM9","IMPAER","US","TN","-999","-999",35.63340,-83.94170,815,"01/01/2005","04/28/2005","-999","-999","-999","Look Rock, 8 mi S of Maryville, TN","NPS","IMPROVE",1
+"Guadalupe Mountains NP","GUMO1","IMPAER","US","TX","48109","481099000",31.83300,-104.80940,1672,"03/02/1988","10/30/2023","-999","Unknown","-999","10 miles SW of Frijole at FAA site","NPS","IMPROVE",1
+"Haleakala Crater","HACR1","IMPAER","US","HI","-999","-999",20.75850,-156.24790,2158,"01/24/2007","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Haleakala NP","HALE1","IMPAER","US","HI","15009","150099000",20.80860,-156.28230,1153,"12/01/1990","05/30/2012","-999","Unknown","-999","Olinda Research facility","NPS","IMPROVE",1
+"Hance Camp at Grand Canyon NP","GRCA2","IMPAER","US","AZ","04005","040058102",35.97310,-111.98410,2267,"03/02/1996","10/30/2023","-999","Unknown","-999","200 yds S of East Rim Drive, 1.2 miles S of Grandview Point turnoff","-999","IMPROVE",1
+"Hawaii Volcanoes NP","HAVO1","IMPAER","US","HI","15001","150019002",19.43090,-155.25790,1258,"03/02/1988","10/30/2023","-999","Unknown","-999","Behind Craft Center","NPS","IMPROVE",1
+"Hells Canyon","HECA1","IMPAER","US","OR","41063","410630002",44.97020,-116.84380,655,"09/03/2000","10/30/2023","-999","Unknown","-999","hilltop W of Oxbow Dam","USFS","IMPROVE",1
+"Hercules-Glades","HEGL1","IMPAER","US","MO","29213","292130003",36.61380,-92.92210,404,"03/02/2001","10/30/2023","-999","Unknown","-999","12 mi E of Forsythe, MO","USFS","IMPROVE",2
+"Hillside","HILL1","IMPAER","US","AZ","04025","040250005",34.42890,-112.96280,1510,"04/19/2001","05/31/2005","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Hoover","HOOV1","IMPAER","US","CA","06051","060519000",38.08810,-119.17710,2560,"06/06/2001","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",2
+"Hopi Point #1","GRCA1","IMPAER","US","AZ","04005","040052002",36.06580,-112.15390,2164,"03/02/1988","12/29/1999","-999","Unknown","-999","Hopi Point Fire Tower","-999","IMPROVE",1
+"Houston Deer Park #2","HOUS1","IMPAER","US","TX","48201","482011039",29.66980,-95.12850,7,"03/01/2004","08/29/2005","-999","-999","-999","-999","STN","IMPROVE",2
+"Ike's Backbone","IKBA1","IMPAER","US","AZ","04025","040258104",34.34050,-111.68320,1297,"03/29/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Indian Gardens","INGA1","IMPAER","US","AZ","04005","040058100",36.07780,-112.12880,1166,"09/02/1989","05/13/2013","-999","Unknown","-999","Indian Gardens picnic area, Grand Canyon NP, Ranger Station","NPS","IMPROVE",1
+"Is 52","NEYO1","IMPAER","US","NY","36005","360050110",40.81610,-73.90190,45,"08/01/2004","06/07/2010","-999","-999","-999","-999","STN","IMPROVE",1
+"Isle Royale NP","ISLE1","IMPAER","US","MI","26083","260839000",47.45960,-88.14910,182,"11/17/1999","10/30/2023","-999","Unknown","-999","Near the boat ramp on point opposite town of Eagle Harbor","NPS","IMPROVE",1
+"Isle Royale NP","ISRO1","IMPAER","US","MI","26083","260839001",47.91670,-89.15000,213,"06/01/1988","12/29/1999","-999","Unknown","-999","Windigo Ranger Station","-999","IMPROVE",1
+"James River Face Wilderness","JARI1","IMPAER","US","VA","51163","511639000",37.62660,-79.51250,289,"06/03/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Jarbidge Wilderness","JARB1","IMPAER","US","NV","32007","320079000",41.89260,-115.42610,1869,"03/02/1988","10/30/2023","-999","Unknown","-999","Mahoney Forest Service Station, Jarbidge, NV","USFS","IMPROVE",2
+"Jefferson NF","JEFF1","IMPAER","US","VA","51163","511639001",37.61670,-79.48330,219,"09/03/1994","02/26/2000","-999","Unknown","-999","Arnold Valley - Puritan Tract, Natural Bridge, VA","-999","IMPROVE",1
+"Joshua Tree NP","JOSH1","IMPAER","US","CA","06071","060719002",34.06957,-116.38895,1235,"02/23/2000","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",2
+"Joshua Tree NP","JOTR1","IMPAER","US","CA","06071","060719002",34.06955,-116.38899,1228,"09/04/1991","12/29/1999","-999","Unknown","-999","Lost Horse Ranger Station","-999","IMPROVE",1
+"Kaiser","KAIS1","IMPAER","US","CA","06019","060199000",37.22070,-119.15460,2597,"01/26/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Kalmiopsis","KALM1","IMPAER","US","OR","41033","410330010",42.55200,-124.05890,80,"03/11/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Kenai Peninsula Borough","KPBO1","IMPAER","US","AK","02122","-999",60.01232,-151.71149,5,"08/19/2015","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Lake Sugema","LASU1","IMPAER","US","IA","19177","191770006",40.68830,-91.98830,210,"05/08/2002","11/29/2004","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Lake Sugema","LASU2","IMPAER","US","IA","-999","-999",40.69320,-92.00590,229,"12/02/2004","07/02/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Lake Tahoe Community College","LTCC1","IMPAER","US","CA","06017","-999",38.92480,-119.97990,1935,"02/19/2014","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Lassen Volcanic NP","LAVO1","IMPAER","US","CA","06089","060893003",40.53980,-121.57680,1732,"03/02/1988","10/30/2023","-999","Unknown","-999","Ranger station near NW entrance, Manzanita Lake, 25 yds SE of Fire Station","NPS","IMPROVE",2
+"Lava Beds NM","LABE1","IMPAER","US","CA","06093","060930005",41.71170,-121.50680,1459,"03/29/2000","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",1
+"Lawrenceville","PITT1","IMPAER","US","PA","42003","420030008",40.46540,-79.96070,268,"03/01/2004","10/30/2023","-999","-999","-999","-999","STN","IMPROVE",1
+"Linville Gorge","LIGO1","IMPAER","US","NC","37011","370110002",35.97230,-81.93310,968,"04/01/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Livonia","LIVO1","IMPAER","US","IN","18175","181759000",38.53460,-86.26040,281,"03/08/2001","12/31/2010","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Londonderry","LOND1","IMPAER","US","NH","-999","-999",42.86240,-71.38010,124,"01/03/2011","10/30/2023","-999","-999","-999","-999","State of New Hampshire","IMPROVE",1
+"Lone Peak Wilderness","LOPE1","IMPAER","US","UT","49049","490499000",40.44490,-111.70810,1768,"12/01/1993","08/29/2001","-999","Unknown","-999","Timpanogos Cave, NM","-999","IMPROVE",1
+"Lostwood","LOST1","IMPAER","US","ND","38013","380130004",48.64190,-102.40220,696,"12/15/1999","10/30/2023","-999","Unknown","-999","Refuge Headquarters","FWS","IMPROVE",1
+"Lye Brook Wilderness","LYBR1","IMPAER","US","VT","50003","500038001",43.14820,-73.12680,1015,"09/04/1991","09/30/2012","-999","Unknown","-999","Mount Equinox, at the windmills, Manchester, VT","USFS","IMPROVE",1
+"Lye Brook Wilderness","LYEB1","IMPAER","US","VT","50025","500258001",42.95610,-72.90980,882,"01/01/2012","10/30/2023","-999","Unknown","-999","Mount Equinox, at the windmills, Manchester, VT","USFS","IMPROVE",1
+"Lynden","LYND1","IMPAER","US","WA","53073","530730020",48.95330,-122.55860,28,"10/16/1996","12/29/1999","-999","Unknown","-999","FCC Monitoring Station W of Lyndon","-999","IMPROVE",1
+"M.K. Goddard","MKGO1","IMPAER","US","PA","42085","420859000",41.42690,-80.14530,379,"04/04/2001","12/31/2010","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Makah Tribe","MAKA1","IMPAER","US","WA","-999","-999",48.37185,-124.59500,-999,"09/02/2006","10/29/2010","-999","-999","-999","-999","-999","IMPROVE",1
+"Makah Tribe Site #2","MAKA2","IMPAER","US","WA","-999","-999",48.29782,-124.62488,480,"11/01/2010","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Mammoth Cave NP","MACA1","IMPAER","US","KY","21061","210619000",37.13180,-86.14790,235,"09/04/1991","10/30/2023","-999","Unknown","-999","Houchin Meadow ozone site off Alfred Cook Road","NPS","IMPROVE",2
+"Martha's Vineyard","MAVI1","IMPAER","US","MA","25007","250070001",41.33090,-70.78460,2,"12/01/2002","10/30/2023","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Mauna Loa Observatory #1","MALO1","IMPAER","US","HI","15001","150019000",19.53620,-155.57670,3439,"03/03/1988","01/01/2011","-999","Unknown","-999","NOAA Global Monitoring Site","-999","IMPROVE",1
+"Mauna Loa Observatory #2","MALO2","IMPAER","US","HI","15001","150019001",19.53620,-155.57670,3439,"03/03/1988","01/01/2011","-999","Unknown","-999","NOAA Global Monitoring Site","-999","IMPROVE",1
+"Mauna Loa Observatory #3","MALO3","IMPAER","US","HI","15001","150019003",19.53890,-155.57800,3400,"03/06/1996","02/26/2000","-999","Unknown","-999","NOAA Global Monitoring Site","-999","IMPROVE",1
+"Mauna Loa Observatory #4","MALO4","IMPAER","US","HI","15001","150019004",19.53890,-155.57800,3400,"03/02/1996","02/26/2000","-999","Unknown","-999","NOAA Global Monitoring Site","-999","IMPROVE",1
+"Meadview","MEAD1","IMPAER","US","AZ","04015","040159000",36.01930,-114.06840,902,"09/04/1991","03/29/2021","-999","Unknown","-999","MOHAVE: DRI Trailer","STATE","IMPROVE",1
+"Medicine Lake","MELA1","IMPAER","US","MT","30091","300919000",48.48710,-104.47570,606,"12/15/1999","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",2
+"Mesa Verde NP","MEVE1","IMPAER","US","CO","08083","080839000",37.19840,-108.49070,2172,"03/02/1988","10/30/2023","-999","Unknown","-999","Resource  Management Research Area, Chapin Mesa","NPS","IMPROVE",2
+"Mingo","MING1","IMPAER","US","MO","29207","292070001",36.97170,-90.14320,111,"06/03/2000","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"Mohawk Mt.","MOMO1","IMPAER","US","CT","09005","090050005",41.82140,-73.29730,521,"09/13/2001","10/30/2023","-999","Unknown","-999","Observation Tower, 10 mi W of Torrington, CT, Mohawk Mountain","STATE","IMPROVE",1
+"Monture","MONT1","IMPAER","US","MT","30077","300779000",47.12220,-113.15440,1282,"03/29/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Moosehorn NWR","MOOS1","IMPAER","US","ME","23029","230291004",45.12590,-67.26610,77,"12/03/1994","10/30/2023","-999","Unknown","-999","McConvey Rd, about 1 mi NE of NWR Baring Unit HQ","FWS","IMPROVE",1
+"Mount Baldy","BALD1","IMPAER","US","AZ","04001","040018001",34.05840,-109.44060,2508,"03/01/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Mount Hood","MOHO1","IMPAER","US","OR","41005","410050010",45.28880,-121.78370,1531,"03/15/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Mount Rainier NP","MORA1","IMPAER","US","WA","53053","530530014",46.75830,-122.12440,439,"03/02/1988","10/30/2023","-999","Unknown","-999","Park HQ, Tahoma Woods, Ashford, WA","NPS","IMPROVE",1
+"Mount Zirkel Wilderness","MOZI1","IMPAER","US","CO","08057","080579000",40.53830,-106.67660,3243,"06/01/1994","10/30/2023","-999","Unknown","-999","Buffalo Pass, NE of Steamboat Springs, CO, DRI Storm Peak/ Mount Werner Facility","USFS","IMPROVE",1
+"Nebraska NF","NEBR1","IMPAER","US","NE","31171","311719000",41.88880,-100.33870,883,"06/01/2002","10/30/2023","-999","-999","-999","-999","STATE","IMPROVE",1
+"Nogales","NOGA1","IMPAER","US","AZ","04023","-999",31.33745,-110.93715,1172,"10/27/2015","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"North Absaroka","NOAB1","IMPAER","US","WY","56029","560299002",44.74480,-109.38160,2482,"01/26/2000","10/30/2023","-999","Unknown","-999","Dead Indian Summit, NW of Cody, WY","USFS","IMPROVE",1
+"North Birmingham","BIRM1","IMPAER","US","AL","01073","010730023",33.55310,-86.81480,175,"03/01/2004","10/30/2023","-999","-999","-999","-999","STM","IMPROVE",1
+"North Cascades","NOCA1","IMPAER","US","WA","53073","530730022",48.73160,-121.06460,568,"07/30/1997","10/30/2023","-999","Unknown","-999","Ross Dam","NPS","IMPROVE",1
+"Northern Cheyenne","NOCH1","IMPAER","US","MT","30087","300870762",45.64950,-106.55740,1283,"06/01/2002","10/30/2023","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Okefenokee NWR","OKEF1","IMPAER","US","GA","13049","130499000",30.74050,-82.12830,48,"09/04/1991","10/30/2023","-999","Unknown","-999","Headquarters, 3-4 mi W of GA Rt. 121","FWS","IMPROVE",1
+"Old Town","OLTO1","IMPAER","US","ME","23019","230194003",44.93340,-68.64570,51,"06/27/2001","05/29/2006","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Olympic","OLYM1","IMPAER","US","WA","53009","530090020",48.00650,-122.97270,599,"07/12/2001","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",2
+"Omaha","OMAH1","IMPAER","US","NE","31173","311739000",42.14870,-96.43180,429,"06/02/2003","08/04/2008","-999","-999","-999","-999","TRIBE","IMPROVE",1
+"Organ Pipe","ORPI1","IMPAER","US","AZ","04019","040190005",31.95060,-112.80160,504,"12/01/2002","10/30/2023","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Owens Valley","OWVL1","IMPAER","US","CA","06027","-999",37.36070,-118.33080,1234,"06/27/2013","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Pack Monadnock Summit","PACK1","IMPAER","US","NH","33011","-999",42.86190,-71.87860,695,"10/03/2007","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Pasayten","PASA1","IMPAER","US","WA","53047","530470012",48.38770,-119.92750,1627,"11/02/2000","10/30/2023","-999","Unknown","-999","Loup-loup ski area, Hwy 20 E of Twisp, WA","USFS","IMPROVE",1
+"Penobscot","PENO1","IMPAER","US","ME","23019","-999",44.94798,-68.64786,45,"01/11/2006","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Petersburg","PETE1","IMPAER","US","AK","02280","022809000",56.61076,-132.81234,0,"07/02/2004","09/28/2009","-999","-999","-999","-999","USFS","IMPROVE",1
+"Petrified Forest NP","PEFO1","IMPAER","US","AZ","04017","040170119",35.07770,-109.76920,1766,"03/02/1988","10/30/2023","-999","Unknown","-999","1 mile N of Park Headquarters","NPS","IMPROVE",1
+"Phoenix","PHOE1","IMPAER","US","AZ","04013","040139997",33.50380,-112.09580,342,"04/19/2001","10/30/2023","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Phoenix Colocated Sampler","PHOE5","IMPAER","US","AZ","04013","-999",33.50380,-112.09580,342,"01/01/2005","10/30/2023","Unknown","Unknown","-999","-999","EPA","IMPROVE",2
+"Pinnacles NM","PINN1","IMPAER","US","CA","06069","060690003",36.48330,-121.15680,302,"03/02/1988","10/30/2023","-999","Unknown","-999","1/2 mile SW of Pinnacles, E entrance","NPS","IMPROVE",1
+"Point Reyes National Seashore","PORE1","IMPAER","US","CA","06041","060410002",38.12240,-122.90850,97,"03/02/1988","10/30/2023","-999","Unknown","-999","North District Ranger Station","NPS","IMPROVE",1
+"Presque Isle","PRIS1","IMPAER","US","ME","23003","230031020",46.69640,-68.03330,165,"03/08/2001","10/30/2023","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"Proctor Maple R. F.","PMRF1","IMPAER","US","VT","50007","500070007",44.52840,-72.86880,401,"12/01/1993","10/30/2023","-999","Unknown","-999","5 Miles N. of Underhill, VT, 2 mi NE of Underhill Center, VT","STATE","IMPROVE",2
+"Puget Sound","PUSO1","IMPAER","US","WA","53033","530330080",47.56960,-122.31190,97,"03/02/1996","10/30/2023","-999","Unknown","-999","Next to reservoir East of I-5 on Union Hill, downtown Seattle, WA","EPA","IMPROVE",1
+"Quabbin Summit","QURE1","IMPAER","US","MA","25015","250154002",42.29850,-72.33460,317,"04/04/2001","12/29/2015","-999","Unknown","-999","Windsor Dam on Loop Road, 5 mi W of Ware, MA, Quabbin Summit","STATE","IMPROVE",2
+"Quaker City","QUCI1","IMPAER","US","OH","39121","391219000",39.94280,-81.33780,366,"04/04/2001","10/30/2023","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Queen Valley","QUVA1","IMPAER","US","AZ","04021","040218001",33.29390,-111.28580,661,"04/19/2001","12/29/2015","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Redwood NP","REDW1","IMPAER","US","CA","06015","060150002",41.56080,-124.08390,243,"03/02/1988","10/30/2023","-999","Unknown","-999","Old USAF radar facility 1/2 mile E of beach and 1/2 mile N of Klamath River, near Requa, CA","NPS","IMPROVE",1
+"Ripple Creek","RICR1","IMPAER","US","CO","08103","-999",40.08650,-107.31410,2934,"03/02/2009","10/30/2011","-999","-999","-999","-999","-999","IMPROVE",1
+"Rocky Mountain NP","ROMO1","IMPAER","US","CO","08069","080699001",40.27830,-105.54570,2760,"09/01/1990","10/30/2023","-999","Unknown","-999","3 mi S of Lily Lake VC, Ozone monitoring shelter 15 miles from ROMO1","-999","IMPROVE",1
+"Rocky Mountain NP HQ","RMHQ1","IMPAER","US","CO","08069","080699000",40.36240,-105.56380,2408,"03/02/1988","12/29/1999","-999","Unknown","-999","Park Headquarters at bone yard","-999","IMPROVE",1
+"Rubidoux","RUBI1","IMPAER","US","CA","06065","060658001",33.99960,-117.41610,247,"09/03/2004","08/29/2005","-999","-999","-999","-999","-999","IMPROVE",1
+"Sac and Fox","SAFO1","IMPAER","US","KS","20013","200139000",39.97910,-95.56820,293,"06/01/2002","06/29/2011","-999","-999","-999","-999","TRIBE","IMPROVE",2
+"Saguaro NM","SAGU1","IMPAER","US","AZ","04019","040190021",32.17460,-110.73710,941,"06/01/1988","10/30/2023","-999","Unknown","-999","1/2 mile south of Headquarters","NPS","IMPROVE",1
+"Saguaro West","SAWE1","IMPAER","US","AZ","04019","040199000",32.24860,-111.21780,714,"10/31/2001","10/30/2023","-999","Unknown","-999","old TUMO site:  maintenance yard off Kinney Rd., ~1 mi SE of jxn with Mile Wide Rd.","STATE","IMPROVE",2
+"Salmon NF","SALM1","IMPAER","US","ID","16059","160590007",45.15880,-114.02600,2788,"12/01/1993","11/05/2000","-999","Unknown","-999","Mountain Top Communications Facility, 6 miles SW of Salmon, ID","-999","IMPROVE",1
+"Salt Creek","SACR1","IMPAER","US","NM","35005","350059000",33.45980,-104.40420,1072,"04/08/2000","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"San Andres","SAAN1","IMPAER","US","NM","35013","350139000",32.68690,-106.48440,1326,"07/30/1997","02/26/2000","-999","Unknown","-999","-999","-999","IMPROVE",1
+"San Gabriel","SAGA1","IMPAER","US","CA","06037","060379034",34.29690,-118.02820,1791,"12/03/2001","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",2
+"San Gorgonio Wilderness","SAGO1","IMPAER","US","CA","06071","060719010",34.19390,-116.91320,1726,"03/02/1988","10/30/2023","-999","Unknown","-999","Converse Fire Station, Seven Oaks, CA, S. of Big Bear Lake","USFS","IMPROVE",1
+"San Pedro Parks","SAPE1","IMPAER","US","NM","35039","350399000",36.01390,-106.84470,2935,"08/16/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"San Rafael","RAFA1","IMPAER","US","CA","06083","060839000",34.73390,-120.00740,956,"02/02/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Sawtooth NF","SAWT1","IMPAER","US","ID","16037","160370002",44.17050,-114.92710,1990,"12/01/1993","10/30/2023","-999","Unknown","-999","USFS Stanley Station Warehouse, Stanley, ID","USFS","IMPROVE",1
+"Scoville","SCOV1","IMPAER","US","ID","16023","160230003",43.65000,-113.03330,1500,"03/04/1992","02/26/2000","-999","Unknown","-999","At the Idaho National Engineering Lab facility, Atomic City, ID","-999","IMPROVE",1
+"Seney","SENE1","IMPAER","US","MI","26153","261539000",46.28890,-85.95030,214,"11/17/1999","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",2
+"Sequoia NP","SEQU1","IMPAER","US","CA","06107","061071001",36.48940,-118.82910,519,"03/04/1992","10/30/2023","-999","Unknown","-999","Residence area, park HQ, Ash Mountain water tank","NPS","IMPROVE",1
+"Shamrock Mine","SHMI1","IMPAER","US","CO","08067","080679000",37.30380,-107.48420,2351,"08/01/2004","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Shenandoah NP","SHEN1","IMPAER","US","VA","51113","511139000",38.52290,-78.43480,1079,"03/02/1988","10/30/2023","-999","Unknown","-999","Big Meadows 1/2 mile N of Visitor Center","NPS","IMPROVE",1
+"Shining Rock Wilderness","SHRO1","IMPAER","US","NC","37087","370870035",35.39370,-82.77440,1617,"06/01/1994","10/30/2023","-999","Unknown","-999","Frying Pan Mountain, Skyline Drive, NC","USFS","IMPROVE",1
+"Sierra Ancha","SIAN1","IMPAER","US","AZ","04007","040078100",34.09080,-110.94210,1600,"02/09/2000","12/03/2017","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Sikes","SIKE1","IMPAER","US","LA","22127","221279000",32.05740,-92.43500,45,"03/02/2001","12/31/2010","-999","Unknown","-999","-999","EPA","IMPROVE",1
+"Simeonof","SIME1","IMPAER","US","AK","02013","020130002",55.32550,-160.50630,57,"09/13/2001","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"Sipsey Wilderness","SIPS1","IMPAER","US","AL","01079","010799000",34.34330,-87.33880,286,"03/04/1992","10/30/2023","-999","Unknown","-999","Black Warrior work center, 4 mi. N of Grayson, AL, Moulton work area, Alabama National Forest","USFS","IMPROVE",1
+"Snoqualmie Pass","SNPA1","IMPAER","US","WA","53037","530370004",47.42200,-121.42590,1049,"06/02/1993","10/30/2023","-999","Unknown","-999","DOT Radio Facility, Snoqualmie Ski Area, WA , 150 yards from Big Bull Lift","USFS","IMPROVE",1
+"South Dekalb","ATLA1","IMPAER","US","GA","13089","130890002",33.68800,-84.29030,243,"03/01/2004","10/30/2023","-999","-999","-999","-999","STN","IMPROVE",1
+"South Lake Tahoe","SOLA1","IMPAER","US","CA","06017","060170008",38.93330,-119.96670,1900,"03/01/1989","12/29/1999","-999","Unknown","-999","Lakeshore ~2 mi. W of Stateline, South Lake Tahoe, CA","-999","IMPROVE",1
+"Southern Great Plains","SOGP1","IMPAER","US","OK","40053","400539000",36.61000,-97.49000,314,"10/03/2019","10/30/2023","Rural","Agricultural","-999","-999","DOE","IMPROVE",1
+"Spokane Res.","SPOK1","IMPAER","US","WA","53063","530630051",47.90450,-117.86090,552,"07/12/2001","06/30/2005","-999","Unknown","-999","-999","TRIBE","IMPROVE",1
+"St. Marks","SAMA1","IMPAER","US","FL","12129","121290001",30.09260,-84.16140,7,"08/16/2000","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",2
+"Starkey","STAR1","IMPAER","US","OR","41061","410610010",45.22490,-118.51290,1259,"03/15/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Stilwell","STIL1","IMPAER","US","OK","40071","400719010",35.75078,-94.66956,300,"04/23/2010","10/30/2023","-999","Unknown","-999","-999","-999","IMPROVE",1
+"Storm Peak","STPE1","IMPAER","US","CO","08107","081079000",40.44500,-106.74000,3220,"12/01/1993","12/29/1999","-999","Unknown","-999","DRI Storm Peak, NE of Steamboat Springs, CO","-999","IMPROVE",1
+"Sula Peak","SULA1","IMPAER","US","MT","30081","300819000",45.85980,-114.00010,1895,"06/01/1994","10/30/2023","-999","Unknown","-999","Sula Peak Fire Lookout, Sula, MT","USFS","IMPROVE",1
+"Swanquarter","SWAN1","IMPAER","US","NC","37095","370959000",35.45100,-76.20750,-3,"06/10/2000","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",2
+"Sycamore Canyon","SYCA1","IMPAER","US","AZ","04005","040058103",35.14060,-111.96920,2046,"09/04/1991","10/30/2015","-999","Unknown","-999","~10 mi S of Parks, AZ, 75 yards south of residence","USFS","IMPROVE",1
+"Sycamore Canyon","SYCA2","IMPAER","US","AZ","04005","-999",35.16390,-111.98230,2046,"10/24/2015","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1
+"Tallgrass","TALL1","IMPAER","US","KS","20017","200170001",38.43410,-96.56020,390,"09/02/2002","10/30/2023","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Theodore Roosevelt","THRO1","IMPAER","US","ND","38007","380070002",46.89480,-103.37770,852,"12/15/1999","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",1
+"Three Sisters Wilderness","THSI1","IMPAER","US","OR","41039","410390070",44.29100,-122.04340,885,"06/02/1993","10/30/2023","-999","Unknown","-999","Carmen Smith Project EWEB facility radio transmitter bldg,  3/4 mile N. of Trail Bridge Campground, OR, Rt.126","USFS","IMPROVE",1
+"Thunder Basin","THBA1","IMPAER","US","WY","56005","560050123",44.66340,-105.28740,1195,"06/01/2002","12/29/2019","-999","Unknown","-999","-999","STATE","IMPROVE",1
+"Tonto NM","TONT1","IMPAER","US","AZ","04007","040070010",33.65480,-111.10680,775,"03/02/1988","10/30/2023","-999","Unknown","-999","Next to maintenance building","NPS","IMPROVE",1
+"Toolik Lake Field Station","TOOL1","IMPAER","US","AK","02185","021859000",68.63178,-149.60601,740,"11/01/2018","10/30/2023","-999","Unknown","-999","University of Alaska Fairbanks Field Station","BLM","IMPROVE",1
+"Trapper Creek","TRCR1","IMPAER","US","AK","02170","021700011",62.31530,-150.31560,155,"09/13/2001","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",2
+"Trinity","TRIN1","IMPAER","US","CA","06105","061059000",40.78640,-122.80460,1014,"10/18/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"Tuxedni","TUXE1","IMPAER","US","AK","02122","021220009",59.99250,-152.66560,15,"12/03/2001","01/12/2015","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"UL Bend","ULBE1","IMPAER","US","MT","30027","300279000",47.58227,-108.71964,891,"01/26/2000","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"Upper Buffalo Wilderness","UPBU1","IMPAER","US","AR","05101","051019000",35.82580,-93.20300,722,"12/04/1991","10/30/2023","-999","Unknown","-999","1 mile north of USFS workstation, Deer, AL, at Cooper Residence","USFS","IMPROVE",1
+"Viking Lake","VILA1","IMPAER","US","IA","19137","191370002",40.96900,-95.04500,371,"05/08/2002","07/02/2023","-999","-999","-999","-999","STATE","IMPROVE",1
+"Virgin Islands NP","VIIS1","IMPAER","US","VI","78020","780209000",18.33630,-64.79620,51,"09/01/1990","10/30/2023","-999","Unknown","-999","Biosphere Reserve Complex, Lind Point, St. John, VI","NPS","IMPROVE",1
+"Voyageurs NP #1","VOYA1","IMPAER","US","MN","27137","271379001",48.41320,-92.83030,425,"03/02/1988","12/29/1999","-999","Unknown","-999","1 mile NW of Visitor Center, End of road 129,","NPS","IMPROVE",1
+"Voyageurs NP #2","VOYA2","IMPAER","US","MN","27137","271379000",48.41260,-92.82860,429,"03/02/1988","10/30/2023","-999","Unknown","-999","-999","-999","IMPROVE",1
+"Walker River Paiute Tribe","WARI1","IMPAER","US","NV","32021","320219000",38.95190,-118.81460,1250,"06/02/2003","10/31/2005","-999","-999","-999","-999","TRIBE","IMPROVE",1
+"Washington D.C.","WASH1","IMPAER","US","DC","11001","110010042",38.87620,-77.03440,15,"03/02/1988","06/08/2015","-999","Unknown","-999","Natl. Capitol Region Park Police HQ, on roof","NPS","IMPROVE",1
+"Weminuche Wilderness","WEMI1","IMPAER","US","CO","08111","081119000",37.65940,-107.79988,2750,"03/02/1988","10/30/2023","-999","Unknown","-999","USFS fire station 30 miles N of Durango 1 mile N of Purgatory Ski Area","USFS","IMPROVE",1
+"Wheeler Peak","WHPE1","IMPAER","US","NM","35055","350559000",36.58540,-105.45200,3366,"08/16/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"White Mountain","WHIT1","IMPAER","US","NM","35027","350279000",33.46870,-105.53490,2063,"12/03/2001","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"White Pass","WHPA1","IMPAER","US","WA","53041","530410007",46.62430,-121.38810,1827,"02/16/2000","10/30/2023","-999","Unknown","-999","-999","USFS","IMPROVE",1
+"White River NF","WHRI1","IMPAER","US","CO","08097","080979000",39.15360,-106.82090,3413,"06/02/1993","10/30/2023","-999","Unknown","-999","USFS Communication Facility, at Tourtellotte Park, Aspen Mt. Ski Area, Aspen, CO","USFS","IMPROVE",1
+"Wichita Mountains","WIMO1","IMPAER","US","OK","40031","400319000",34.73230,-98.71300,509,"03/02/2001","10/30/2023","-999","Unknown","-999","-999","FWS","IMPROVE",1
+"Wind Cave","WICA1","IMPAER","US","SD","46033","460330132",43.55760,-103.48380,1296,"12/15/1999","10/30/2023","-999","Unknown","-999","-999","NPS","IMPROVE",2
+"Wrightwood","WRIG1","IMPAER","US","CA","06071","-999",34.37892,-117.69211,2106,"10/01/2009","10/15/2012","-999","Unknown","-999","-999","-999","IMPROVE",1
+"Yellowstone NP","YELL1","IMPAER","US","WY","56039","560399001",44.56540,-110.40030,2442,"03/09/1988","12/29/1999","-999","Unknown","-999","SW of Fishing Bridge, Yellowstone Lake above maintenance yard and seasonal employee housing/campground. , Lake Ranger Office","NPS","IMPROVE",1
+"Yellowstone NP","YELL2","IMPAER","US","WY","56039","560399000",44.56530,-110.40020,2425,"03/02/1988","10/30/2023","-999","Unknown","-999","-999","-999","IMPROVE",1
+"Yosemite NP","YOSE1","IMPAER","US","CA","06043","060430003",37.71330,-119.70610,1603,"03/02/1988","10/30/2023","-999","Unknown","-999","Turtleback Dome, 1 mi W of Tunnel View","NPS","IMPROVE",2
+"Yosemite NP","YOSEX","IMPAER","US","CA","06043","-999",37.71330,-119.70610,1603,"11/02/2012","07/29/2015","-999","Unknown","-999","Turtleback Dome, 1 mi W of Tunnel View","NPS","IMPROVE",1
+"Zion","ZION1","IMPAER","US","UT","49053","490539000",37.45910,-113.22430,1545,"03/25/2000","08/22/2004","-999","Unknown","-999","-999","NPS","IMPROVE",1
+"Zion Canyon","ZICA1","IMPAER","US","UT","49053","490530130",37.19830,-113.15080,1215,"12/01/2002","10/30/2023","-999","-999","-999","-999","-999","IMPROVE",1

@@ -1,0 +1,7 @@
+VariableName,VariableType
+ParamID,double
+ParamCode,string
+ParamName,string
+AQSCode,double
+Units,categorical
+Description,string
