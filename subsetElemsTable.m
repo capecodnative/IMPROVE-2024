@@ -1,4 +1,4 @@
-function subsetTable = CreateSubsetElemsTable(originalTable, filename)
+function subsetTable = subsetElemsTable(originalTable, filename)
 	% Open and read the variable names from the specified file
 	fileID = fopen(filename, 'r');
 	variableList = textscan(fileID, '%s');
