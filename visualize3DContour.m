@@ -1,5 +1,6 @@
 function [patchHandles, scatterHandle] = visualize3DContour(X, Y, Z, C,...
-    xRange, yRange, zRange, cRange, densityLevels, axisLabels)
+    xRange, yRange, zRange, cRange, densityLevels, axisLabels, ...
+    contourAlpha, scatterAlpha, contourColor)
     % Create 3D grid
     [xGrid, yGrid, zGrid] = meshgrid(xRange, yRange, zRange);
 
@@ -26,10 +27,10 @@ function [patchHandles, scatterHandle] = visualize3DContour(X, Y, Z, C,...
     hColorbar = colorbar; % Show color scale
 
     % Define colors for each density level as grey through black
-    colorThresholder = linspace(0.1, 1, length(densityLevels) + 1);
+    colorThresholder = linspace(0, 1, length(densityLevels) + 1);
     colors = zeros(length(densityLevels), 3);
     for i = 1:length(densityLevels)
-        colors(i, :) = colorThresholder(i) * [1, 1, 1];
+        colors(i, :) = colorThresholder(i) * contourColor;
     end
 
     % Initialize array to store patch handles
@@ -42,7 +43,7 @@ function [patchHandles, scatterHandle] = visualize3DContour(X, Y, Z, C,...
         [faces, verts] = isosurface(xGrid, yGrid, zGrid, densityMatrix, isoValue);
         % Plot the isosurface and use the colors defined earlier
         patchHandles(i) = patch('Vertices', verts, 'Faces', faces, 'FaceColor', colors(i, :),...
-            'FaceAlpha', 0.05, 'EdgeColor', 'none');
+            'FaceAlpha', contourAlpha, 'EdgeColor', 'none');
     end
 
     % Customize the plot
@@ -64,7 +65,7 @@ function [patchHandles, scatterHandle] = visualize3DContour(X, Y, Z, C,...
     end
     
     % Scatter plot of data points and set axis limits
-    scatterHandle = scatter3(X, Y, Z, 4, C, 'filled','MarkerFaceAlpha',0.1);
+    scatterHandle = scatter3(X, Y, Z, 4, C, 'filled','MarkerFaceAlpha', scatterAlpha);
     xlim([min(xRange), max(xRange)]);ylim([min(yRange), max(yRange)]);zlim([min(zRange), max(zRange)]);
     clim([min(cRange), max(cRange)]);
     grid on;
