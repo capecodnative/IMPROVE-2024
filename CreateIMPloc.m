@@ -1,3 +1,2 @@
-Sites.Properties.VariableNames(2) = "SiteCode";
-IMPloc = innerjoin(IMP(:, 'SiteCode'), Sites(:, {'SiteCode', 'Latitude', 'Longitude', 'Elevation'}), 'Keys', 'SiteCode');
-Sites.Properties.VariableNames(2) = "Code";
+% Use innerjoin to merge tables based on SiteCode
+IMPloc = innerjoin(IMP(:, 'SiteCode'), Sites(:, {'Code', 'Latitude', 'Longitude', 'Elevation'}), 'Keys', 'SiteCode');
