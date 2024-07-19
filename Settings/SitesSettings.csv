@@ -1,6 +1,6 @@
 VariableName,VariableType
 Site,string
-Code,char
+Code,categorical
 Dataset,categorical
 Country,categorical
 State,categorical

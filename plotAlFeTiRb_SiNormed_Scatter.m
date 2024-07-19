@@ -2,14 +2,14 @@
 X = log10(IMPelems.Al ./ IMPelems.Si);
 Y = log10(IMPelems.Fe ./ IMPelems.Si);
 Z = log10(IMPelems.Ti ./ IMPelems.Si);
-C = log10(IMPelems.Ca ./ IMPelems.Si);
+C = Sites.Latitude
 tempPosition =  [3062.6 146.6 1102.4 858];
 
 % Define axis labels
-axisLabels = {'log_{10}(Al/Si)', 'log_{10}(Fe/Si)', 'log_{10}(Ti/Si)', 'log_{10}(Ca/Si)'};
+axisLabels = {'log_{10}(Al/Si)', 'log_{10}(Fe/Si)', 'log_{10}(Ti/Si)', 'log_{10}(Rb/Si)'};
 
 % Define axis limit thresholds as percentiles
-axisLimitThresholds = [0.1, 99.9];
+axisLimitThresholds = [0.01, 99.99];
 
 % Call the function
 hScatter = plotScatter3dWithThresholds(X, Y, Z, C, axisLimitThresholds, axisLabels, tempPosition);
