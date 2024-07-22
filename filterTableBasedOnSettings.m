@@ -8,9 +8,6 @@ function filteredTable = filterTableBasedOnSettings(importedTable, settingsFileP
     % Initialize a new table for the filtered data
     filteredTable = table();
     
-    % Initialize a structure to keep track of filtering
-    filterReport = struct();
-    
     % Loop through the settings to rename and filter columns
     for i = 1:height(settings)
         originalVarName = settings.VariableName{i};
