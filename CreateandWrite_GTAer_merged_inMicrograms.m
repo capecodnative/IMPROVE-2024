@@ -31,19 +31,34 @@ for i = 1:length(toMerge)
     end
 end
 
+% Announce we are now converting weights
+fprintf('Converting weights to mass units...\n');
+
 % For all columns in GTAer_merged that are valid element names 
-% (have numeric weights returned by getAtomicWeight),,
-% convert those data columns from molar to mass units using the atomic weight
+% (have numeric weights returned by getAtomicWeight), convert the data from molar to mass units
 for i = 1:width(GTAer_merged)
     varName = GTAer_merged.Properties.VariableNames{i};
     atomicWeight = getAtomicWeight(varName);
     %if getAtomicWeight returns a numeric value, convert that column to mass units
     if isnumeric(atomicWeight)
-        GTAer_merged.(varName) = GTAer_merged.(varName) * atomicWeight;
+        GTAer_merged.(varName) = GTAer_merged.(varName) * atomicWeight * 1e-6; %Convert from pmol to ug
+        %Convert from pg to ug
+        GTAer_merged.Properties.VariableUnits{i} = 'ug/m3';
+        GTAer_merged.Properties.VariableDescriptions{i} = 'Mass in micrograms per m3 of air';
         %tell the user which columns were converted
         fprintf('Converted %s to mass units\n', varName);
+    else
+        %tell the user which columns were not converted
+        fprintf('Did not convert %s to mass units\n', varName);
     end
-    
 end
+% Convert the date column to a datetime format ensuring the 'T' between date and time is removed
+GTAer_merged.Date = datetime(GTAer_merged.Date, 'InputFormat', 'yyyy-MM-dd''T''HH:mm:ss', 'Format', 'yyyy-MM-dd HH:mm:ss');
 
+% Write GTAer_merged to a csv in the CSVoutput folder
+writetable(GTAer_merged, './CSVoutput/GTAer_merged.csv');
+% Tell the user where the output file is located
+fprintf('Output file saved to: ./CSVoutput/GTAer_merged.csv\n');
+
+% Clear all variables except GTAer_merged
 clear toMerge varName lowVarName flagVarName lowFlagVarName nonNanRows i atomicWeight
