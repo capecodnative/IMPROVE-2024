@@ -1,3 +1,5 @@
 % Use innerjoin to merge tables based on SiteCode
-IMPloc = innerjoin(IMP(:, {'SiteCode', 'Date'}), Sites(:, {'Code', 'Latitude', 'Longitude', 'Elevation'}),...
- 'LeftKeys', 'SiteCode', 'RightKeys', 'Code');
+IMP.SiteCodeStr = cellstr(IMP.SiteCode);
+IMPloc = innerjoin(IMP(:, {'SiteCodeStr', 'Date'}), Sites(:, {'Code', 'Latitude', 'Longitude', 'Elevation', 'Pop2020', 'LandArea'}),...
+ 'LeftKeys', 'SiteCodeStr', 'RightKeys', 'Code');
+IMP.SiteCodeStr = [];
